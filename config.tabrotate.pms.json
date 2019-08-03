@@ -5,12 +5,12 @@
   "lazyLoadTabs": false,
   "websites": [
     {
-      "url": "https://app.powerbi.com/groups/me/reports/3809e475-f45c-4805-8e03-37beb9c58606/ReportSection?Chromeless=true",
+      "url": "https://app.powerbi.com/groups/me/reports/3809e475-f45c-4805-8e03-37beb9c58606/ReportSection?chromeless=true",
       "duration": 10,
       "tabReloadIntervalSeconds": 4000
     },
     {
-      "url": "https://app.powerbi.com/groups/me/reports/f5a7c536-1041-4cb1-865f-611c218bac99/ReportSection?Chromeless=true",
+      "url": "https://app.powerbi.com/groups/me/reports/f5a7c536-1041-4cb1-865f-611c218bac99/ReportSection?chromeless=true",
       "duration": 10,
       "tabReloadIntervalSeconds": 4000
     }
