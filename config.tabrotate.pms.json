@@ -1,33 +1,18 @@
 {
   "settingsReloadIntervalMinutes": 1,
-  "fullscreen": false,
-  "autoStart": false,
+  "fullscreen": true,
+  "autoStart": true,
   "lazyLoadTabs": false,
   "websites": [
     {
-      "url": "https://www.patreon.com/kevdev",
+      "url": "https://app.powerbi.com/groups/me/reports/3809e475-f45c-4805-8e03-37beb9c58606/ReportSection?Chromeless=true",
       "duration": 10,
-      "tabReloadIntervalSeconds": 15
+      "tabReloadIntervalSeconds": 4000
     },
     {
-      "url": "chrome-extension://pjgjpabbgnnoohijnillgbckikfkbjed/src/settings.html",
+      "url": "https://app.powerbi.com/groups/me/reports/f5a7c536-1041-4cb1-865f-611c218bac99/ReportSection?Chromeless=true",
       "duration": 10,
-      "tabReloadIntervalSeconds": 15
-    },
-    {
-      "url": "https://github.com/KevinSheedy/chrome-tab-rotate.git",
-      "duration": 10,
-      "tabReloadIntervalSeconds": 300
-    },
-    {
-      "url": "https://chrome.google.com/webstore/detail/tab-rotate/pjgjpabbgnnoohijnillgbckikfkbjed",
-      "duration": 10,
-      "tabReloadIntervalSeconds": 15
-    },
-    {
-      "url": "https://ie.linkedin.com/in/kevinsheedy",
-      "duration": 10,
-      "tabReloadIntervalSeconds": 15
+      "tabReloadIntervalSeconds": 4000
     }
   ]
 }
